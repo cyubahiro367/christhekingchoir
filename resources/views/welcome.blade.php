@@ -8,52 +8,11 @@
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <style>
-        /* Center content */
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+    <link rel="stylesheet" href="css/style.css">
 
-        /* Fade-in animation */
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-
-            to {
-                opacity: 1;
-            }
-        }
-
-        .fade-in {
-            animation: fadeIn 1s ease-in-out;
-        }
-
-        /* Blinking cursor animation */
-        @keyframes blink {
-            0% {
-                opacity: 0;
-            }
-
-            50% {
-                opacity: 1;
-            }
-
-            100% {
-                opacity: 0;
-            }
-        }
-
-        .blink {
-            animation: blink 1s step-end infinite;
-        }
-    </style>
 </head>
 
-<body style="background-image: url('{{ asset('image.jpg') }}'); color: #913831">
+<body style="background-image: url('{{ asset('images/image.jpg') }}'); color: #913831">
 
     <div class="container text-center">
         <div class="fade-in">
