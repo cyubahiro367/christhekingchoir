@@ -8,11 +8,11 @@
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ asset('public/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
 </head>
 
-<body style="background-image: url('{{ asset('public/images/image.jpg') }}'); color: #913831">
+<body style="background-image: url('{{ asset('images/image.jpg') }}'); color: #913831">
 
     <div class="container text-center">
         <div class="fade-in">
