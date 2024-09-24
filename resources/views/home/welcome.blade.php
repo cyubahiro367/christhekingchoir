@@ -468,7 +468,7 @@
                                         </div>
                                         <div class="pad-top-15">
                                             <p class="margin-bottom-20">Christ the King Choir was founded in 1998. It
-                                                is a choir that was created after the 1994 genocide when there was a
+                                                is a choir that was created after The 1994 Genocide against the Tutsi in Rwanda when there was a
                                                 massive return of Rwandan refugees from different parts of the world.
                                             </p>
                                             <p class="margin-bottom-20">
