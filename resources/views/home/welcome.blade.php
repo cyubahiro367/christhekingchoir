@@ -380,7 +380,7 @@
                                 data-dim="w:806px,805px,689px,388px;h:auto,auto,auto,89px;" data-frame_0="y:100%;"
                                 data-frame_0_mask="u:t;" data-frame_1="st:2680;sp:1360;sR:2680;"
                                 data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:4960;"
-                                style="z-index:9;font-family:'Open Sans';">Zegen Church WordPress Theme comes with
+                                style="z-index:9;font-family:'Open Sans';">Christ The King Choir WordPress Theme comes with
                                 sermons, ministries, events, testimonies, staff members, church locations shortcodes to
                                 enhance your website. </rs-layer>
                             <!--							--><a id="slider-1-slide-3-layer-16" class="rs-layer res-slide-btn pop rev-btn"
@@ -736,7 +736,7 @@
                                                 <span class="border-bottom"></span>
                                             </div>
                                             <div class="pad-top-15">
-                                                <p class="margin-bottom-10">Feel free to Contact Us. Zegen Church WP
+                                                <p class="margin-bottom-10">Feel free to Contact Us. Christ The King Choir
                                                     Theme comes with sermons, ministries, events, testimonies, staff
                                                     members, church locations shortcodes to enhance your website.</p>
                                             </div>
